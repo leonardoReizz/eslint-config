@@ -4,7 +4,7 @@
 Install dependencies:
 
 ```
-npm i -D eslint @leonardo-reis/eslint-config
+npm i -D eslint@8.57.0 @leonardo-reis/eslint-config @typescript-eslint/eslint-plugin@6.21.0
 ```
 
 Create File
